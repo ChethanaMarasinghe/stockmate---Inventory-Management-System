@@ -44,9 +44,9 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Firebase sensitive files - DO NOT COMMIT
-**/google-services.json
-**/GoogleService-Info.plist
-firebase_options.dart
-.env
-.env.*
+# # Firebase sensitive files - DO NOT COMMIT
+# **/google-services.json
+# **/GoogleService-Info.plist
+# firebase_options.dart
+# .env
+# .env.*
